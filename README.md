@@ -9,9 +9,9 @@ as part of Scotch tutorial:
 https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js
 
 And customized as follows (work in progress):
-- .env instead of config hardcodes
-- Jade instead of Handlebars
-- fa icon instead of deprecated svg spinner
+- .env instead of config hardcodes (done)
+- Jade instead of Handlebars (to do)
+- fa icon instead of deprecated svg spinner (to do)
 
 ## Real Time Twitter Stream with Node and React
 
