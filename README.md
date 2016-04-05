@@ -1,5 +1,5 @@
 # isomorphic-tweets
-Self-learn React. Use it to build an isomorphic Javascript application involving websockets
+Self-learn React. Use it to build an isomorphic Javascript application involving websockets.
 
 ## Credit:
 Manually forked from:
@@ -10,8 +10,8 @@ https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react
 
 And customized as follows:
 - Jade instead of Handlebars
-
-## Original Readme
+- .env instead of config hardcodes
+- styling, RWD fine tuning
 
 ## Real Time Twitter Stream with Node and React
 
@@ -23,7 +23,7 @@ Code repository for the tutorial by @kenwheeler: [Build A Real-Time Twitter Stre
 
 ## How to Use
 
-1. Clone the repo: `git clone git@github.com:scotch-io/react-tweets`
+1. Clone the repo: `git clone git@github.com:jblossomweb/isomorphic-tweets`
 2. Go into folder: `cd react-tweets`
 3. Install dependencies: `npm install`
 4. Create local MongoDB database called **react-tweets** (configured in `server.js`)
